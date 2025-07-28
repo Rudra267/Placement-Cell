@@ -31616,7 +31616,7 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   color: var(--color-heading-1);
 }
 .accordion .accordion-item .accordion-button:not(.collapsed)::after {
-  content: "-";
+  content: "\274A";
   font-size: 28px;
 }
 .accordion .accordion-item .accordion-button::after {
@@ -31624,7 +31624,7 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   width: unset;
   color: var(--color-heading-1);
   background: none;
-  content: "+";
+  content: "\2748";
   font-size: 24px;
   line-height: 1;
 }
