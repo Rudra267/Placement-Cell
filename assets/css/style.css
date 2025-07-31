@@ -30270,7 +30270,8 @@ body {
 }
 .sub-dropdown .submenu.third-lvl {
   opacity: 0 !important;
-  min-width: 185px !important;
+  width:400px;
+  /* min-width: 185px !important; */
   left: 100% !important;
   top: -13% !important;
   margin: 0;
@@ -30284,7 +30285,7 @@ body {
 }
 .sub-dropdown:hover .submenu.third-lvl.base {
   opacity: 1 !important;
-  min-width: 185px !important;
+  /* min-width: 185px !important; */
   top: 0 !important;
   right: 3px;
   display: block !important;
