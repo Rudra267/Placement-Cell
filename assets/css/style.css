@@ -34839,7 +34839,7 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
       
       display: flex;
       justify-content: center;
-      align-items: center;
+      align-items: end;
     }
 
     /* faq */
